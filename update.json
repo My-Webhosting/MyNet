@@ -1,5 +1,16 @@
 {
   "version": "6.8",
+  "platforms": {
+    "windows": {
+      "url": "https://your-site.com/MyNet6.8.exe"
+    },
+    "linux": {
+      "url": "https://your-site.com/MyNet-x86_64.AppImage"
+    }
+  },
+  "changelog": "- OTA updates\n- Extensions UI\n- Bug fixes"
+}{
+  "version": "6.8",
 
   "platforms": {
     "windows": {
