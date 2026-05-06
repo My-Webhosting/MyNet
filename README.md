@@ -1,5 +1,5 @@
 # MyNet
-MyWebHosting's MyNet web browser OTA ## 
+MyWebHosting's MyNet web browser OTA engine 
 
 
 
